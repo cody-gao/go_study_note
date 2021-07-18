@@ -1,1 +1,7 @@
-package go_study_note
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello world!")
+}
